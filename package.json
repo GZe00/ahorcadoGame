@@ -1,0 +1,22 @@
+{
+  "name": "ahorcadogame",
+  "version": "1.0.0",
+  "description": "Juego donde el usuario tendrá que encontrar la palabra correcta con un número limitado de intentos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "juego",
+    "desarrollador",
+    "encontrar",
+    "palabra",
+    "intento",
+    "ahorcado",
+    "dibujo",
+    "pensar"
+  ],
+  "author": "Moisés Fuentes",
+  "license": "ISC"
+}
